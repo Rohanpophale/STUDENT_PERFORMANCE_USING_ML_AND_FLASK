@@ -1,5 +1,12 @@
 # STUDENT_PERFORMANCE_USING_ML_AND_FLASK
+<h3>TITLE</h3>
 
+STUDENT PERFORMANCE USING ML AND FLASK
+<h3>INTRODUCTION</h3>
+
+<h3>METHODOLOGY</h3>
+<h3>RESULT</h3>
+<h3>OUTPUT</h3>
 <h3>HOW TO RUN</h3>
 The repository is consist of two folders named as
 1. Without_GUI
