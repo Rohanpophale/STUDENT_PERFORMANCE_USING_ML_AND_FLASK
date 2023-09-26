@@ -9,11 +9,11 @@ The project is a Flask-based web application that leverages machine learning to 
 <h3>METHODOLOGY</h3>
 <h3>RESULT</h3>
 
-<img width="960" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/59122688-fe14-4d70-a556-53f55bc0cb3c">
+<img width="800" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/59122688-fe14-4d70-a556-53f55bc0cb3c">
 
 <h3>OUTPUT</h3>
 
-<img width="960" alt="landing page" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/70be86c1-c53c-4a6f-b6ae-7b19bc8de89a">
+<img width="800" alt="landing page" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/70be86c1-c53c-4a6f-b6ae-7b19bc8de89a">
 
 <h3>HOW TO RUN</h3>
 The repository is consist of two folders named as
