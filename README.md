@@ -7,6 +7,9 @@ STUDENT PERFORMANCE USING ML AND FLASK
 The project is a Flask-based web application that leverages machine learning to predict student scores based on two key input parameters: the number of courses a student is taking and the amount of time they dedicate to studying. This application provides a user-friendly interface for users to input their academic information, after which it employs a pre-trained machine learning model to estimate their academic performance.
 
 <h3>METHODOLOGY</h3>
+
+<img width="800" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/073cb50c-ba3c-45c8-9a5f-406d2ead421b">
+
 <h3>RESULT</h3>
 
 <img width="800" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/59122688-fe14-4d70-a556-53f55bc0cb3c">
