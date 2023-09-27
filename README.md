@@ -8,7 +8,7 @@ The project is a Flask-based web application that leverages machine learning to 
 
 <h3>METHODOLOGY</h3>
 
-<img width="800" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/073cb50c-ba3c-45c8-9a5f-406d2ead421b">
+<img width="800" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/f5a95a57-15a1-4408-89d4-7463428e9ecf">
 
 <h3>RESULT</h3>
 
