@@ -19,6 +19,12 @@ The project is a Flask-based web application that leverages machine learning to 
 <img width="800" alt="output" src="https://github.com/Rohanpophale/STUDENT_PERFORMANCE_USING_ML_AND_FLASK/assets/97818946/59122688-fe14-4d70-a556-53f55bc0cb3c">
 
 <h3>HOW TO RUN</h3>
+clone the repository
+1. Go to the directory where you want to clone.
+2. Open cmd
+3. run command : git clone 
+for Without_GUI : run command 'python P1_ML_Algo.py'
+and for With_gui (Flask) : run command 'python App.py'
 The repository is consist of two folders named as
 1. Without_GUI
 2. With_gui (Flask)
