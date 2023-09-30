@@ -27,7 +27,7 @@ First folder consist of:
 1. Student_Marks.csv : Dataset required for the training of the Machine Learning model.
 2. P1_ML_Algo.py : Main Logic file where all the data loading, preprocessing, data spliting in train and test and model building is done.
 3. P2_Load_algo_pickel.py : Creating the weights of the model trained in the 'P2_ML_Algo.py' file
-4. sm.model : Weighted model which is to be directly used in the HUI based application
+4. sm.model : Weighted model which is to be directly used in the GUI based application
 
 Second folder consist of:
 1. Folder --> Sample.html : GUI main landing page created using html and css
