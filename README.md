@@ -22,7 +22,8 @@ The project is a Flask-based web application that leverages machine learning to 
 clone the repository
 1. Go to the directory where you want to clone.
 2. Open cmd
-3. run command : git clone README.md
+3. run command : git clone repo link.
+
 for Without_GUI : run command 'python P1_ML_Algo.py'
 and for With_gui (Flask) : run command 'python App.py'
 The repository is consist of two folders named as
